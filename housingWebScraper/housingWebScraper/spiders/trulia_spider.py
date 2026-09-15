@@ -1,6 +1,6 @@
 #############################
 # Trulia Spider (Entry Point)
-# Author: (EJ) Vivek Pandey
+# Author: (EJ) Dhruv Soni
 # Last Modified: 03/05/2019
 #############################
 
